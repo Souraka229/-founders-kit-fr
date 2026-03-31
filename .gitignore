@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (si scripts de validation ajoutés ultérieurement)
+node_modules/
+npm-debug.log
+
+# Temp
+*.tmp
+*.log
