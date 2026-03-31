@@ -1060,3 +1060,5 @@ Ce projet est sous licence MIT — voir le fichier [LICENSE](LICENSE) pour les d
 *Dernière mise à jour : Mars 2026 — Mise à jour majeure : Ajout des sections IA Coding, LLMOps, Vibe Coding, Agents IA, Vidéo IA, Outils Financiers & Juridiques, Outils Investisseurs, Financement Français/Européen, et Afrique Francophone.*
 
 > ✨ = Ajouté dans l'édition 2026
+#   - f o u n d e r s - k i t - f r  
+ 
