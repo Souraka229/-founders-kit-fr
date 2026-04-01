@@ -286,7 +286,7 @@ Ce repository est un répertoire structuré de ressources essentielles pour chaq
 ### Réseaux & Événements
 - [VivaTech](https://vivatechnology.com/) ✨ — Le Salon de l'Innovation, Paris (+ 90 000 visiteurs)
 - [Salon des Entrepreneurs](https://www.salondesentrepreneurs.com/) ✨ — Paris et Lyon
-- [SXSW France](https://www.sxsw.com/) — Startup français représentés chaque année à Austin
+- [SXSW France](https://www.sxsw.com/) — Startups françaises représentées chaque année à Austin
 
 ---
 
@@ -687,7 +687,7 @@ Ce repository est un répertoire structuré de ressources essentielles pour chaq
 
 - [OneSignal](https://onesignal.com/) — Push notifications, email et SMS.
 - [Loops](https://loops.so/) ✨ — Plateforme email construite spécifiquement pour les produits SaaS.
-- [Twilio](https://www.twilio.com/) — SMS, voix, vidéo API
+- [Twilio](https://www.twilio.com/) — SMS, voix, vidéo API.
 - [Braze](https://www.braze.com/) — Engagement client enterprise.
 - [Vapi](https://vapi.ai/) ✨ — Agents vocaux IA pour l'engagement et les appels support.
 
@@ -742,7 +742,7 @@ Ce repository est un répertoire structuré de ressources essentielles pour chaq
 - [Glide](https://www.glideapps.com/) ✨ — Construire des apps depuis Google Sheets/Airtable.
 - [Webflow](https://webflow.com/) — Builder de site orienté design avec CMS.
 - [Retool](https://retool.com/) — Construire des outils internes sur APIs et bases de données.
-- [Softr](https://www.softr.io/) ✨ — Apps et portails web depuis Airtable/Google Sheets, simple
+- [Softr](https://www.softr.io/) ✨ — Apps et portails web depuis Airtable/Google Sheets, simple.
 
 ---
 
@@ -766,7 +766,7 @@ Ce repository est un répertoire structuré de ressources essentielles pour chaq
 - [Shine](https://shine.fr/) ✨ — **Fintech française** ! Compte pro + comptabilité pour freelances et startups.
 - [Revolut Business](https://www.revolut.com/fr-FR/business/) ✨ — Multi-devises, cartes virtuelles, accès API.
 - [Mercury](https://mercury.com/) — Pour les startups américaines ou incorporées aux USA.
-- [Wise Business](https://wise.com/) — Transferts internationaux, meilleures taux pour paiements transfrontaliers.
+- [Wise Business](https://wise.com/) — Transferts internationaux, meilleurs taux pour paiements transfrontaliers.
 
 ### Comptabilité & Finance
 - [Pennylane](https://www.pennylane.com/fr/) ✨ — **Startup française** ! Comptabilité + finance tout-en-un, conçu pour les startups.
@@ -776,8 +776,8 @@ Ce repository est un répertoire structuré de ressources essentielles pour chaq
 - [Runway Financial](https://www.runway.com/) — Prévisions de flux de trésorerie et planification de scénarios.
 
 ### Juridique & Conformité
-- [Legalstart](https://www.legalstart.fr/) ✨ — **Plateforme française** de création d'entreprise et documents juridiques en ligne
-- [Captain Contrat](https://www.captaincontrat.com/) ✨ — **Plateforme française** — avocats en ligne, statuts, contrats
+- [Legalstart](https://www.legalstart.fr/) ✨ — **Plateforme française** de création d'entreprise et documents juridiques en ligne.
+- [Captain Contrat](https://www.captaincontrat.com/) ✨ — **Plateforme française** — avocats en ligne, statuts, contrats.
 - [Clerky](https://www.clerky.com/) — Documents légaux pour startups (US). Incorporation, SAFEs.
 - [Stripe Atlas](https://stripe.com/atlas) — Incorporer une société américaine depuis n'importe où.
 - [DocuSign](https://www.docusign.com/) — Signatures électroniques pour contrats.
@@ -786,7 +786,7 @@ Ce repository est un répertoire structuré de ressources essentielles pour chaq
 ### Gestion de l'Equity
 - [Carta](https://carta.com/) — Gestion de cap table, 409A, ESOP. Utilisé par 40K+ entreprises.
 - [Capdesk](https://capdesk.com/) ✨ — Alternative à Carta, populaire en Europe.
-- [Equify](https://www.equify.eu/) ✨ — **Solution européenne** de gestion d'equity pour startups
+- [Equify](https://www.equify.eu/) ✨ — **Solution européenne** de gestion d'equity pour startups.
 
 ---
 
@@ -809,7 +809,7 @@ Ce repository est un répertoire structuré de ressources essentielles pour chaq
 - [Landscape.vc](https://landscape.vc/) — Base de données fonds et investisseurs.
 - [Crunchbase](https://www.crunchbase.com/)
 - [AngelList](https://www.angellist.com/)
-- [Dealroom](https://dealroom.co/) ✨ — La base de données de référence sur les startups et VCs en Europe
+- [Dealroom](https://dealroom.co/) ✨ — La base de données de référence sur les startups et VCs en Europe.
 
 ---
 
@@ -868,7 +868,7 @@ Ce repository est un répertoire structuré de ressources essentielles pour chaq
 - [Notion for Startups](https://www.notion.so/startups) ✨ — 6 mois gratuits offerts.
 - [Linear Startup Program](https://linear.app/startups) ✨
 - [HubSpot for Startups](https://www.hubspot.com/startups)
-- [Brevo for Startups](https://www.brevo.com/) ✨ — CRM + email marketing, startup française
+- [Brevo for Startups](https://www.brevo.com/) ✨ — CRM + email marketing, startup française.
 
 ### Paiements
 - [Stripe Atlas](https://stripe.com/atlas) ✨ — Incorporation + 10K$+ en crédits partenaires.
@@ -914,10 +914,10 @@ Ce repository est un répertoire structuré de ressources essentielles pour chaq
 - [SaaSHub](https://www.saashub.com/)
 
 ### Communautés Françaises
-- [Maddyness](https://www.maddyness.com/) ✨ — Media startup français, possibilité de faire parler de soi
-- [Frenchweb](https://www.frenchweb.fr/) ✨ — Actualités de l'économie numérique
-- [France Digitale](https://francedigitale.org/) ✨ — Association représentant le numérique français
-- [L'Atelier BNP Paribas](https://atelier.bnpparibas/) — Veille innovation
+- [Maddyness](https://www.maddyness.com/) ✨ — Media startup français, possibilité de faire parler de soi.
+- [Frenchweb](https://www.frenchweb.fr/) ✨ — Actualités de l'économie numérique.
+- [France Digitale](https://francedigitale.org/) ✨ — Association représentant le numérique français.
+- [L'Atelier BNP Paribas](https://atelier.bnpparibas/) — Veille innovation.
 
 ### Réseaux Sociaux
 - [LinkedIn](https://linkedin.com/) — Très actif pour B2B et SaaS
@@ -1060,5 +1060,3 @@ Ce projet est sous licence MIT — voir le fichier [LICENSE](LICENSE) pour les d
 *Dernière mise à jour : Mars 2026 — Mise à jour majeure : Ajout des sections IA Coding, LLMOps, Vibe Coding, Agents IA, Vidéo IA, Outils Financiers & Juridiques, Outils Investisseurs, Financement Français/Européen, et Afrique Francophone.*
 
 > ✨ = Ajouté dans l'édition 2026
-#   - f o u n d e r s - k i t - f r  
- 
