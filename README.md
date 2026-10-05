@@ -664,6 +664,7 @@ Ce repository est un répertoire structuré de ressources essentielles pour chaq
 - [Typefully](https://typefully.com/) ✨ — Écrire et programmer des threads Twitter/X et LinkedIn.
 - [Taplio](https://taplio.com/) ✨ — Outil de croissance LinkedIn dopé à l'IA.
 - [Hootsuite](https://hootsuite.com/)
+- [Calculateur de taux d’engagement — AcheterSuiveurs](https://achetersuiveurs.fr/tools/engagement-rate) ✨ — Outil gratuit en français, sans inscription, pour Instagram et TikTok : (mentions J’aime + commentaires) ÷ abonnés, portée ou vues × 100, avec saisie manuelle et limites de comparaison expliquées.
 
 ### Marketing Automation
 - [HubSpot for Startups](https://www.hubspot.com/startups)
